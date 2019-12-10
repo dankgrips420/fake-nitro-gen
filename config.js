@@ -6,5 +6,7 @@ module.exports = {
     // The ID of the channel in which the users will be able to ask for their fake games nitro
     genGames: "",
     // The prefix of the bot
-    prefix: "+"
+    prefix: "+",
+    // Stream status
+    status: "Free Discord Nitro :)"
 }
