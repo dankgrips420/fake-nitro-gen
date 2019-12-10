@@ -1,0 +1,25 @@
+{
+  "name": "fake-nitro-gen",
+  "version": "1.0.0",
+  "description": "Discord bot used to give fake generated nitro gifts to people",
+  "main": "generator.js",
+  "dependencies": {
+    "chalk-animation": "^1.6.0",
+    "discord.js": "^11.5.1",
+    "generate-password": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Androz2091/fake-nitro-gen.git"
+  },
+  "author": "Androz2091",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Androz2091/fake-nitro-gen/issues"
+  },
+  "homepage": "https://github.com/Androz2091/fake-nitro-gen#readme"
+}
